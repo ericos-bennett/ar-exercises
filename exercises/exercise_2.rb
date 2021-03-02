@@ -10,5 +10,4 @@ puts "----------"
 
 @store1.update(annual_revenue: 1500000)
 
-# pp Store.find_by(id: 1
-)
+# pp Store.find_by(id: 1)
